@@ -1,0 +1,11 @@
+{
+  "name": "polish-funny-bot",
+  "version": "0.0.1",
+  "description": "Hamster Ryszard is alive.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrycja Norek & Paulina Galas",
+  "license": "ISC"
+}
